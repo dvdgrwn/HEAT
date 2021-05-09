@@ -5,7 +5,8 @@
 .u-section-1 .u-text-1 {
   margin: 60px 0;
 }.u-section-2 {
-  background-image: url("images/plastic-export.jpg");
+  background-image: url("images/Plastic-highres.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -59,7 +60,8 @@
     width: 340px;
   }
 }.u-section-4 {
-  background-image: url("images/sweat-export.jpg");
+  background-image: url("images/sweat-export1.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
@@ -113,7 +115,8 @@
     width: 340px;
   }
 }.u-section-6 {
-  background-image: url("images/oil-export.jpg");
+  background-image: url("images/oil-highres.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
